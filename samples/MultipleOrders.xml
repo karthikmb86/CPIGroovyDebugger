@@ -1,0 +1,12 @@
+<Records>
+    <Record>
+  <OrderId>1001</OrderId>
+  <CustomerFullName>Ada Lovelace</CustomerFullName>
+  <ItemCount>2</ItemCount>
+    </Record>
+    <Record>
+        <OrderId>1002</OrderId>
+        <CustomerFullName>Eve Smith</CustomerFullName>
+        <ItemCount>2</ItemCount>
+    </Record>
+</Records>
