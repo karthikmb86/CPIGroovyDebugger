@@ -1,23 +1,26 @@
-// File: src/main/groovy/com/sap/gateway/ip/core/customdev/util/Message.groovy
 package com.sap.gateway.ip.core.customdev.util
 
 class Message {
-    Map<String, Object> headers = [:]
-    Map<String, Object> properties = [:]
-    Object body
+    private final Map<String,Object> headers = [:]
+    private final Map<String,Object> properties = [:]
+    private Object body
 
+    // Body
     Object getBody(Class type = String) {
-        if (type == String && body != null && !(body instanceof String)) {
-            return body.toString()
-        }
+        if (type == String && body != null && !(body instanceof String)) return body.toString()
         return body
     }
     void setBody(Object b) { body = b }
 
+    // Headers
     Object getHeader(String name) { headers[name] }
-    void setHeader(String name, Object value) { headers[name] = value }
+    void setHeader(String name, Object val) { headers[name] = val }
 
-    // Must match GroovyObject signatures:
+    // Properties (your script uses getProperties())
     Object getProperty(String name) { properties[name] }
-    void setProperty(String name, Object value) { properties[name] = value }
+    void setProperty(String name, Object val) { properties[name] = val }
+    Map<String,Object> getProperties() { properties }  // <-- important for your code
+
+    // convenience for tests
+    Map<String,Object> debugHeaders() { headers }
 }
