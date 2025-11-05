@@ -1,0 +1,35 @@
+<EmpEmployment>
+	<EmpEmployment>
+		<userNav>
+			<User>
+				<isPrimaryAssignment>true</isPrimaryAssignment>
+			</User>
+		</userNav>
+		<endDate/>
+		<personIdExternal>20001818</personIdExternal>
+		<employmentId>13206</employmentId>
+		<userId>20001818</userId>
+		<customDate4>2025-10-28T00\:00\:00.000</customDate4>
+		<jobInfoNav>
+			<EmpJob>
+				<division>3014</division>
+				<payScaleGroup>AUS/60/15/General Level 6</payScaleGroup>
+				<endDate>9999-12-31T00\:00\:00.000</endDate>
+				<payScaleType>AUS/15</payScaleType>
+				<payScaleLevelNav>
+					<PayScaleLevel>
+						<code>AUS/60/15/General Level 6/Step 2</code>
+					</PayScaleLevel>
+				</payScaleLevelNav>
+				<event>578</event>
+				<customString13/>
+				<userId>20001818</userId>
+				<eventReason>NEWHIRE</eventReason>
+				<startDate>2025-10-28T00\:00\:00.000</startDate>
+				<payScaleArea>AUS/60</payScaleArea>
+			</EmpJob>
+		</jobInfoNav>
+		<startDate>2025-10-28T00\:00\:00.000</startDate>
+		<customDate5>2025-10-28T00\:00\:00.000</customDate5>
+	</EmpEmployment>
+</EmpEmployment>

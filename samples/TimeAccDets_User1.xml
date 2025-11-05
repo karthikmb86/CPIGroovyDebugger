@@ -1,0 +1,29 @@
+<TimeAccountDetail>
+	<TimeAccountDetail>
+		<externalCode>a51dca7fb8a446de9242e24b7ee78ac1</externalCode>
+		<createdBy>SFAPI_BTP</createdBy>
+		<bookingType>MANUAL_ADJUSTMENT</bookingType>
+		<accountType/>
+		<TimeAccount_externalCode/>
+		<bookingDate/>
+		<bookingAmount>NoEntry</bookingAmount>
+	</TimeAccountDetail>
+	<TimeAccountDetail>
+		<externalCode>78a9b2aa3c084addb8a7ae09778fa59e</externalCode>
+		<createdBy>SFAPI_BTP</createdBy>
+		<bookingType>MANUAL_ADJUSTMENT</bookingType>
+		<accountType>86</accountType>
+		<TimeAccount_externalCode>de1c301eadb34884923d6e349ad933b1</TimeAccount_externalCode>
+		<bookingDate/>
+		<bookingAmount>NoEntry</bookingAmount>
+	</TimeAccountDetail>
+	<TimeAccountDetail>
+		<externalCode>f750a585581843aaaacc57a9c90d7c4e</externalCode>
+		<createdBy>SFAPI_BTP</createdBy>
+		<bookingType>MANUAL_ADJUSTMENT</bookingType>
+		<accountType>85</accountType>
+		<TimeAccount_externalCode>8f70d331c02a4ea39473bc39f5f748de</TimeAccount_externalCode>
+		<bookingDate/>
+		<bookingAmount>NoEntry</bookingAmount>
+	</TimeAccountDetail>
+</TimeAccountDetail>

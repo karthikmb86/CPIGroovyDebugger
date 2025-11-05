@@ -1,0 +1,46 @@
+<EmpEmployment>
+    <EmpEmployment>
+      <userNav/>
+      <endDate>2025-09-01T00:00:00.000</endDate>
+      <personIdExternal>20001659</personIdExternal>
+      <employmentId>12981</employmentId>
+      <userId>20001659</userId>
+      <customDate4>2025-06-02T00:00:00.000</customDate4>
+      <jobInfoNav>
+        <EmpJob>
+          <payScaleLevelNav>
+            <PayScaleLevel>
+              <code>AUS/30/13/Proficient/Step 3</code>
+            </PayScaleLevel>
+          </payScaleLevelNav>
+          <customString13/>
+          <userId>20001659</userId>
+        </EmpJob>
+      </jobInfoNav>
+      <startDate>2025-06-02T00:00:00.000</startDate>
+    </EmpEmployment>
+    <EmpEmployment>
+      <userNav>
+        <User>
+          <isPrimaryAssignment>true</isPrimaryAssignment>
+        </User>
+      </userNav>
+      <endDate/>
+      <personIdExternal>20001750</personIdExternal>
+      <employmentId>13111</employmentId>
+      <userId>20001750</userId>
+      <customDate4>2025-09-06T00:00:00.000</customDate4>
+      <jobInfoNav>
+        <EmpJob>
+          <payScaleLevelNav>
+            <PayScaleLevel>
+              <code>AUS/1I/11/Exam Supervisor/NA</code>
+            </PayScaleLevel>
+          </payScaleLevelNav>
+          <customString13/>
+          <userId>20001750</userId>
+        </EmpJob>
+      </jobInfoNav>
+      <startDate>2025-09-06T00:00:00.000</startDate>
+    </EmpEmployment>
+  </EmpEmployment>

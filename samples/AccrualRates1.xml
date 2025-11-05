@@ -1,0 +1,14 @@
+<cust_LeaveAccrualRateLookup>
+	<cust_LeaveAccrualRateLookup>
+		<cust_AccrualRateLSL2>0.01686</cust_AccrualRateLSL2>
+		<externalCode>AUS/60/15</externalCode>
+		<cust_clslStandard>0.09023</cust_clslStandard>
+		<cust_payScaleArea>AUS/60</cust_payScaleArea>
+		<externalName>General|Educational Services (Schools) General Staff Award</externalName>
+		<cust_clsl1>0</cust_clsl1>
+		<cust_AccrualRateLSL2Ovr>0</cust_AccrualRateLSL2Ovr>
+		<cust_AccrualRateLSL1Ovr>0</cust_AccrualRateLSL1Ovr>
+		<cust_AccrualRateLSL1>0.01686</cust_AccrualRateLSL1>
+		<cust_clsl2>0</cust_clsl2>
+	</cust_LeaveAccrualRateLookup>
+</cust_LeaveAccrualRateLookup>
